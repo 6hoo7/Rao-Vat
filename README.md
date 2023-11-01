@@ -1,5 +1,5 @@
 Dự án Ứng dụng Rao vặt
-![Logo Dự án](https://example.com/logo.png)
+
 *****Nhóm 4:*****
 Scrum Master: [Phan Văn Thái Nguyên]
 Product Owner: [Võ Công Minh]
