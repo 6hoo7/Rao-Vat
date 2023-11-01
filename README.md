@@ -1,9 +1,9 @@
 # Dự án Ứng dụng Rao vặt
-
+![image](https://github.com/6hoo7/Rao-Vat/assets/140428458/d28259da-a036-43a2-838e-59cfe1f61058)
 **Nhóm 4:**
-- **Scrum Master:** Phan Văn Thái Nguyên
-- **Product Owner:** Võ Công Minh
-- **Nhóm phát triển:** Nguyễn Minh Khang, Scrum Master, Product Owner
+- **Scrum Master:** Phan Văn Thái Nguyên - Tạo các cuộc họp nhóm cho mọi thành viên để theo dõi tiến độ công việc của mọi người.
+- **Product Owner:** Nguyễn Minh Khang - Lên kế hoạch cho các sprint, phỏng vấn và tương tác với khách hàng.
+- **Nhóm phát triển:** Võ Công Minh, Scrum Master, Product Owner - Phát triển ứng dụng.
 
 ## Giới thiệu
 
