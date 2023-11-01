@@ -10,7 +10,7 @@
 Dự án Ứng dụng Rao vặt là một ứng dụng di động đang được phát triển bằng Flutter và ngôn ngữ Dart. Dự án này nhằm mục tiêu tạo ra một ứng dụng rao vặt đa năng, hỗ trợ cả người mua và người bán.
 
 ## Công nghệ
-![Công nghệ]([https://images.app.goo.gl/sV6Gv1onPnCSSvjb9])
+![image](https://github.com/6hoo7/Rao-Vat/assets/140428458/ff974253-fb01-45c4-910f-c660ca346881)
 - **Ngôn ngữ lập trình:** Dart
 - **Framework:** Flutter
 
