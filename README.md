@@ -1,5 +1,8 @@
 # Dự án Ứng dụng Rao vặt
-![image](https://github.com/6hoo7/Rao-Vat/assets/140428458/d28259da-a036-43a2-838e-59cfe1f61058)
+<p align="center">
+  <img src="https://github.com/6hoo7/Rao-Vat/assets/140428458/d28259da-a036-43a2-838e-59cfe1f61058" alt="Mô tả hình ảnh">
+</p>
+
 **Nhóm 4:**
 - **Scrum Master:** Phan Văn Thái Nguyên - Tạo các cuộc họp nhóm cho mọi thành viên để theo dõi tiến độ công việc của mọi người.
 - **Product Owner:** Nguyễn Minh Khang - Lên kế hoạch cho các sprint, phỏng vấn và tương tác với khách hàng.
